@@ -373,4 +373,8 @@ namespace CommunicationDevice
             
         }
     }
+    class Test
+    {
+
+    }
 }
